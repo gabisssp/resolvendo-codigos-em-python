@@ -2,6 +2,6 @@
 
 #### Projeto DIO
 
-1- Concatenação de strings;
-2- Repetição de strings;
-3- Operações matemáticas.
+- Concatenação de strings;
+- Repetição de strings;
+- Operações matemáticas.
